@@ -13,11 +13,12 @@
     
     <item>
       <title></title>
-      <link>/about/</link>
+      <link>/who/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
-      <description>Studio Leg is a creative collective with a mission. The mission? You work it out…</description>
+      <guid>/who/</guid>
+      <description>Who we are:
+ Asa Calow, Technologist Chris Mullany, Technologist Stuart Nolan, Applied Magician Rachael Turner, Producer  </description>
     </item>
     
   </channel>
